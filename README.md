@@ -8,9 +8,9 @@ This project takes two word from the user input. If the first word is included i
 Anyone is welcomed to make changes to the source code. Please make annotations as necessary.
 
 ### Code snippet of how to use it
-# input user‘s first word
+#### input user‘s first word
 word_A = input("Please enter a word: ")
-# input user’s second word
+#### input user’s second word
 word_B = input("Please enter another word: ")
 
 Simply enter two words into terminal, and the program will run. 
